@@ -4,7 +4,7 @@
 
 This project was completed by following along a Udemy course conducted by Brad Traversy.
 
-Checkout his Github [Github](https://github.com/bradtraversy) and the project Udemy course[MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce)
+Checkout his [Github](https://github.com/bradtraversy) and the project Udemy course [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce)
 
 ## Features
 
